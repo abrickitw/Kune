@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Kulturna bastina</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#" style="background-image: url('https://euro.hr/wp-content/uploads/2022/07/1E_HR_V_1080.png'); background-repeat: no-repeat; background-size: cover;
+        width: 100px; height: 100px;"></a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="html.html" style="width: 100px; height: 100px; font-size: x-large;">Home</a></li>
+          <li><a href="spec.html" style="width: 200px; height: 100px; font-size: x-large;">Tehnicke specifikacije</a>
+          </li>
+          <li><a href="nasljede.html" style="width: 200px; height: 100px; font-size: x-large;">Kulturna Bastina</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div>
+    <div class="container-fluid text-center">
+      <div class="row content">
+        <div class="col-sm-1 sidenav">
+          <p><a href="https://www.hnb.hr/">HNB</a></p>
+          <p><a href="https://euro.hr/">Kalkulator</a></p>
+          <p><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_37_683.html">Zakon</a></p>
+          <p><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_37_683.html">Euro</a></p>
+        </div>
+        <div class="col-sm-10 text-left bg-image d-flex justify-content-center align-items-center visina"
+          style="background-image: url('https://image.dnevnik.hr/media/images/1920x1080/Feb2022/62231461-kuna-euro-kovanica.jpg'); background-size:cover;"
+          id="pozadina">
+          <h1>Kulturna Bastina</h1>
+          <button type="button" onclick="myFunction2()" id="PrikaziTablicu">Prikazi tablicu</button>
+          <hr>
+          <p class="tekst" id="nestajuciTekst">Tijekom Drugoga svjetskoga rata valuta Nezavisne Države Hrvatske (1941. –
+            1945.)
+            također se zvala kuna, no njezina najmanja jedinica bila je banica (1 kuna = 100 banica), s obzirom na
+            dizajn
+            kovanog novca i naziv banovac.
+            Nakon Drugog svjetskog rata Hrvatska ulazi u sastav SFR Jugoslavije i jugoslavenski dinar (YUD) postaje
+            službena valuta sve do hrvatskoga osamostaljenja.
+            Za vrijeme raspada Jugoslavije i demokratskih promjena monetarno osamostaljivanje Hrvatske postaje jednim od
+            glavnih ciljeva samostalne Hrvatske.
+            Nakon proglašenja neovisnosti Hrvatske te za vrijeme Domovinskoga rata u upotrebi je bio hrvatski dinar
+            (HRD),
+            koji je služio kao privremeni novac prije uvođenja konačne hrvatske valute, koja je trebala biti »hrvatska
+            kruna« podijeljena na 100 banica.
+            Međutim, Sabor je u srpnju 1993. odlučio kako će hrvatska valuta ipak biti hrvatska kuna.[5] Kuna je
+            službeno
+            uvedena 30. svibnja 1994.,
+            na Dan državnosti u Hrvatskoj, i time je zamijenjen dotadašnji hrvatski dinar (HRD).
+            Autori su idejnog rješenja novčanica kuna Miroslav i Šimun Šutej i Vilko Žiljak.
+            Svaka novčanica ima svoju osnovnu boju. Na licu novčanice nalazi se lik jednog velikana hrvatske povijesti i
+            kulture,
+            dok su na novčanici od 5 kuna zajedno dvojica obiteljski povezanih hrvatskih plemića. Naličje svih novčanica
+            prikazuje panoramu ili
+            karakterističan motiv jednoga hrvatskog grada.
+          </p>
+
+          <div id="filter" class="filter">
+            <p class="tekst">Pretrazi po osobi</p>
+            <input type="text" id="inputField">
+            <button id="gumb" onclick="filterOsoba()">Pretrazi</button>
+            <div id="ispisVr" class="tekst"></div>
+          </div>
+
+          <div id="myDiv" class="tablica" style="display:none;">
+            <table id="demo" class="tekst"></table>
+          </div>
+
+
+        </div>
+        <div class="col-sm-1 sidenav"></div>
+      </div>
+
+
+    </div>
+  </div>
+
+  <footer class="container-fluid text-center">
+    <p>Footer Text</p>
+  </footer>
+
+</body>
+
+</html>

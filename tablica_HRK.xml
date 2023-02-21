@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type = "application/xml" href = "XSLTFile.xslt" ?>
+<?xml-stylesheet type = "text/xsl" href = "XSLTFile.xslt"?>
+<tablica_HRK>
+
+
+
+    
+
+    <kategorija_apoena>Lipe</kategorija_apoena>
+    <vrsta_apoena tip='lipe'>
+        <apoen>
+            <naziv>Jedna lipa</naziv>
+            <brojcaniN>0.01</brojcaniN>
+            <format>promjer 17 mm</format>
+            <masa>0,7 grama</masa>
+            <materijal>Slitina aluminija i magnezija</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH</zastita>
+            <motiv_lice>Kukuruzne stabljike s 2 klipa</motiv_lice>
+            <motiv_nalicje>Grane lipe u cvatu</motiv_nalicje>
+            <vrijednost_euro>0,00134 eura</vrijednost_euro>
+            <slika> https://static.slobodnadalmacija.hr/Archive/Images/2017/10/17/lipa_kovanica4-151017.jpg </slika>
+            <opis>Lipa je autohtona vrsta hrvatskih šuma, medonosna ljekovita biljka, posebno cijenjeno drvo u stolarstvu i tokarstvu
+                Kukuruz je jedna od najvažnijih žitarica u Hrvatskoj, što joj zbog široke primjene daje iznimnu ekonomsku važnost
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Dvije Lipe</naziv>
+            <brojcaniN>0.02</brojcaniN>
+            <format>promjer 19 mm</format>
+            <masa>0,92 grama</masa>
+            <materijal>Slitina aluminija i magnezija</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH</zastita>
+            <motiv_lice>Vinova loza</motiv_lice>
+            <motiv_nalicje>Grane lipe u cvatu</motiv_nalicje>
+            <vrijednost_euro>0,00268 eura</vrijednost_euro>
+            <slika>  https://a.allegroimg.com/original/111515/21da2fc44052bdf517bdd079a1a8/Chorwacja-2-Lipe-zestaw-17-monet-BCM </slika>
+            <opis>Vinova loza na našim prostorima jedna je od najstarijih uzgajanih biljnih kultura.
+                Hrvatska, zbog svojih klimatskih preduvjeta, ima svih pet vinorodnih zona
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Pet lipa</naziv>
+            <brojcaniN>0.05</brojcaniN>
+            <format>promjer 18 mm</format>
+            <masa>2,5 grama</masa>
+            <materijal>Čelična jezgra obložena broncom</materijal>
+            <boja>Broncana</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH</zastita>
+            <motiv_lice>Stilizirane grane hrasta lužnjaka s plodovima</motiv_lice>
+            <motiv_nalicje>Grane lipe u cvatu</motiv_nalicje>
+            <vrijednost_euro>0,00268 eura</vrijednost_euro>
+            <slika>  https://images.vcoins.com/product_image/239/F/f62M7cAHg6dR8Yogt9zJKwN34zEkW5.jpg </slika>
+            <opis>Hrast lužnjak najvrjednija je šumska vrsta u Hrvatskoj.
+                Pripisuju mu se ljekovita svojstva, nezaobilazan je u tradicionalnom građevinarstvu, a posebno se ističe kao najbolje bačvarsko drvo.
+                 Slavonska hrastovina poznata je u cijelom svijetu
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Deset lipa</naziv>
+            <brojcaniN>0.1</brojcaniN>
+            <format>promjer 20 mm</format>
+            <masa>3,25 grama</masa>
+            <materijal>Čelična jezgra obložena broncom</materijal>
+            <boja>Broncana</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH</zastita>
+            <motiv_lice>Stabljika duhana u cvatu</motiv_lice>
+            <motiv_nalicje>Grane lipe u cvatu</motiv_nalicje>
+            <vrijednost_euro>0,0134 eura</vrijednost_euro>
+            <slika> https://img.ma-shops.com/cdma/pic/combined446826.jpg </slika>
+            <opis>Prva sadnja duhana zabilježena je na području Đurđevca već 1571. godine.
+                 Duhan ima ponajprije gospodarsku vrijednost kao industrijska kultura.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Dvadeset lipa</naziv>
+            <brojcaniN>0.2</brojcaniN>
+            <format>promjer 18,5 mm</format>
+            <masa>2,9 grama</masa>
+            <materijal>Čelična jezgra obložena niklom</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH</zastita>
+            <motiv_lice>Grana masline s plodovima </motiv_lice>
+            <motiv_nalicje>Grane lipe u cvatu</motiv_nalicje>
+            <vrijednost_euro>0,0268 eura</vrijednost_euro>
+            <slika> https://images.vcoins.com/product_image/239/4/4bqDDYo86iXcJi87E5yWNeg269dBKN.jpg </slika>
+            <opis>Maslina, lijek i hrana, uspijeva isključivo na Mediteranu.Zbog svoje dugovječnosti stablo masline može doživjeti i više tisuća godina
+                Devet stoljeca prije krista datiraju nalazi koji potvrđuju razvoj maslinarstva u Dalmaciji,
+                prerastavši u jednu od najvažnijih grana privrede jadranskog dijela RH
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Pedeset lipa</naziv>
+            <brojcaniN>0.5</brojcaniN>
+            <format>promjer 20,5 mm</format>
+            <masa>3,65 grama</masa>
+            <materijal>Čelična jezgra obložena niklom</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH</zastita>
+            <motiv_lice>Stilizirani prikaz endemske biljke velebitske degenij</motiv_lice>
+            <motiv_nalicje>Grane lipe u cvatu</motiv_nalicje>
+            <vrijednost_euro>0,0667 eura</vrijednost_euro>
+            <slika>  https://img.ma-shops.com/cdma/pic/combined539149.jpg </slika>
+            <opis>Velebitska degenija, uskih listova i žutih cvjetova, endemska je biljka.
+                 Raste na točilima i kamenim blokovima na samo nekoliko nalazišta na Velebitu. Ime je dobila po madžarskom biologu Arpadu Degenu
+                 
+            </opis>
+        </apoen>
+    </vrsta_apoena>
+
+    
+    <kategorija_apoena>Kovanice</kategorija_apoena>
+    <vrsta_apoena tip='kovanice'>
+        <apoen>
+            <naziv>Jedna kuna</naziv>
+            <brojcaniN>1</brojcaniN>
+            <format>promjer 22,5 mm</format>
+            <masa>5 grama</masa>
+            <materijal>Slitina bakra, nikla i cinka</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH, obrub</zastita>
+            <motiv_lice>Slavuj</motiv_lice>
+            <motiv_nalicje>prikaz kune zlatice, zvijeri iz porodice kuna, te grane, listovi masline i psenice</motiv_nalicje>
+            <vrijednost_euro>0,1334 eura</vrijednost_euro>
+            <slika>https://i.ebayimg.com/images/g/9z8AAOSw~rpZR88C/s-l1600.jpg </slika>
+            <opis>Kuna zlatica zajednički je motiv svih kovanica kuna.Kuna zlatica zajednički je motiv svih kovanica kuna
+                Slavuj je ptica pjevica. Pjeva u proljeće, najčešće noću, a zime provodi u Africi.
+                Od najdavnijih vremena smatran je pticom koja donosi svjetlost i naviješta dan.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Dvije kune</naziv>
+            <brojcaniN>2</brojcaniN>
+            <format>promjer 24,5 mm</format>
+            <masa>6,2 grama</masa>
+            <materijal>Slitina bakra, nikla i cinka</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH, obrub</zastita>
+            <motiv_lice>Tunj</motiv_lice>
+            <motiv_nalicje>prikaz kune zlatice, zvijeri iz porodice kuna, te grane, listovi masline i psenice</motiv_nalicje>
+            <vrijednost_euro>0,2668 eura</vrijednost_euro>
+            <slika>https://img.ma-shops.com/tschopp/pic/2413_00002367a00_c.jpg </slika>
+            <opis>Tunj je velika pučinska riba i jedna od rijetkih tople krvi, što ju čini snažnom i brzom i omogućuje joj život i u toplim i u hladnim morima
+                Meso ove ribe je vrlo cijenjeno u svijetu, zbog čega je tunj najvažnija riba za hrvatsko gospodarstvo.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Pet kuna</naziv>
+            <brojcaniN>5</brojcaniN>
+            <format>promjer 26,5 mm</format>
+            <masa>7,45 grama</masa>
+            <materijal>Slitina bakra, nikla i cinka</materijal>
+            <boja>Srebrna</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH, obrub</zastita>
+            <motiv_lice>Mrki Medvjed u pokretu</motiv_lice>
+            <motiv_nalicje> prikaz kune zlatice, zvijeri iz porodice kuna, te grane, listovi masline i psenice</motiv_nalicje>
+            <vrijednost_euro>0,667 eura</vrijednost_euro>
+            <slika>https://img.ma-shops.com/tschopp/pic/2415_00002369a00_c.jpg </slika>
+            <opis>Smeđi ili mrki medvjed velika je i snažna životinja koja može težiti i do 3oo kilograma.
+            Većinu života provodi sam, uglavnom se hrani biljem. Kako bi ostavio znak guli koru stabala.
+            Zaštićena je rijetka životinjska vrsta, obitava uglavnom na području Gorskoga kotara i Like.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Dvadesetpet kuna</naziv>
+            <brojcaniN>25</brojcaniN>
+            <format>pravilni dvanaesterokut promjera 32 mm </format>
+            <masa>12,75 grama</masa>
+            <materijal>Jezgra kovanice izrađena je od slitine 92% bakra, 6% aluminija i 2% nikla,
+                 a prsten od slitine srebrnasta sjaja, koja se sastoji od 75% bakra i 25% nikla</materijal>
+            <boja>Srebnran i brončana</boja>
+            <zastita>Detalji i reljef motiva, sluzbeni natpisis, grb RH, jezgra</zastita>
+            <motiv_lice>Razlikuje se ovisno o izdanju</motiv_lice>
+            <motiv_nalicje>Brojčana oznaka nominalne vrijednosti, isto za prvih 13 izdanja</motiv_nalicje>
+            <vrijednost_euro>3,31 eura</vrijednost_euro>
+            <slika>https://www.tportal.hr/media/thumbnail/w1000/1798105.png </slika>
+            <opis>Hrvatska narodna banka izdala je 1997. prvo izdanje prigodnoga optjecajnoga
+                 kovanog novca od 25 kuna i do danas je pušteno u optjecaj ukupno devetnaest 
+                 različitih izdanja, kojima se obilježavaju događaji posebno važni za Republiku Hrvatsku.
+            </opis>
+        </apoen>
+    </vrsta_apoena>
+
+
+    <kategorija_apoena>Novcanice</kategorija_apoena>
+    <vrsta_apoena tip='novcanice'>
+        <apoen>
+            <naziv>Pet kuna</naziv>
+            <brojcaniN>5</brojcaniN>
+            <format>122 x 61 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Zelena</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar</zastita>
+            <motiv_lice>Petar Zrinsk i Fran Krsto Frankopan</motiv_lice>
+            <motiv_nalicje>Tvrđava Staroga grada u Varaždinu (XII. - XVI. stoljeće), tlocrt Staroga grada</motiv_nalicje>
+            <vrijednost_euro>0,667 eura</vrijednost_euro>
+            <slika>https://static.kupindoslike.com/Hrvatska-5-Kuna-2001-P-37-UNC-_slika_O_134788897.jpg </slika>
+            <opis>Lice:
+                Hrvatski ban Zrinski, rođen 1621. u Vrbovcu, i Frankopan, rođen 1643. u Bosiljevu, pripadnici su moćnih hrvatskih velikaških obitelji.
+                Isticali su se u borbama protiv Turaka, ali i otporom habsburškom centralizmu i apsolutizmu. Težeći stvaranju jedinstvenoga hrvatskog jezika spajanjem triju hrvatskih dijalekata, osnovali su ozaljski književno-jezični krug
+                Povijest ih pamti kao pokretače Zrinsko-Frankopanske urote, pokušaj zustavljaja apsolutističkoj vlasti Habsburgovaca.
+                nastojanja nisu uspjela, te su obojica optužena za veleizdaju i  pogubljeni 30. travnja 1671. na trgu pred gradskom oružarnicom:
+                Nalicje:
+                Varaždina stari grad, Nakon velikog stradavanja u provali Tatara 1242. godine, Bela IV. gradi kraljevsku utvrdu koja će postati znana kao Stari grad.
+                Od jake srednjovjekovne utvrde okružene opkopima ispunjenima vodom, glavne utvrde i oružarnice Slavonske krajine i sjedišta Varaždinskog generalata do prekrasnoga renesansnog dvorca.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Deset kuna</naziv>
+            <brojcaniN>10</brojcaniN>
+            <format>126 x 63 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Siva</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar</zastita>
+            <motiv_lice>Portret Jurja Dobrile</motiv_lice>
+            <motiv_nalicje>Arena u Puli, tlocrt Motovuna</motiv_nalicje>
+            <vrijednost_euro>1,3334 eura</vrijednost_euro>
+            <slika> https://c8.alamy.com/comp/D40DHA/10-kuna-banknote-juraj-dobrila-and-pula-arena-croatia-2001-D40DHA.jpg</slika>
+            <opis>Lice:
+                Juraj Dobrila rođen je 1812,Prvi je hrvatski biskup i Porečko-pulske i Tršćansko-koparske biskupije, te clan sabora.
+                Ne stideći se svoje nacionalne pripadnosti i težačkog podrijetla istaknuo se u borbi za izjednačavanje prava slavenskog i talijanskog stanovništva u Istri i u borbi za obrazovanje mladih.
+            :
+                Nalicje:
+                Gradnja Pulske arene započela je u 1. stoljecu, trajala je cijelo 1. stoljeće.Sesta arena po veličini u Rimskom Carstvu.
+                Mogla je primiti 25 tisuća gledatelja, preživjela nekoliko velikih potresa, njezino se kamenje odnosilo za građevinski materija.
+                Danas je to jedan od najvećih sačuvanih amfiteatara.
+                Motovun se prvi put spominje 804. godine, Da je urbano središte s razvijenom autonomijom, Motovun dokazuje već 1248. gradnjom Komunalne palače koju još nije imao ni Trst.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Dvadeset kuna</naziv>
+            <brojcaniN>20</brojcaniN>
+            <format>130 x 65 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Crvena</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar</zastita>
+            <motiv_lice> Portret Josipa Jelačića</motiv_lice>
+            <motiv_nalicje>Dvorac grofa Eltza u Vukovaru, motiv Vučedolska golubica</motiv_nalicje>
+            <vrijednost_euro>2,667 eura</vrijednost_euro>
+            <slika> https://c8.alamy.com/comp/D40DH3/20-kuna-banknote-josip-jelacic-and-castle-of-count-eltz-in-vukovar-D40DH3.jpg </slika>
+            <opis>Lice:
+                Grof Josip Jelačić Bužimski, hrvatsko-slavonsko-dalmatinski ban rodio se 1801. u Petrovaradinu.
+                stjecao je vojno iskustvo na mnogim tada aktivnim bojištima. Na početku revolucionarnih kretanja u Habsburškoj Monarhiji Kralj Ferdinand I. proglašava ga 23. ožujka 1848. banom
+                od Ugarske vlade zahtijevajući teritorijalno jedinstvo Hrvatske, ukida kmetstvo, uvodi hrvatski jezik kao službeni te se zalaže za jednakost i ravnopravnost u svim segmentima društva, 
+                zbog čega je postao omiljen u širokim slojevima naroda
+                Nalicje:
+                Dvorac Eltz raskošno je barokno zdanje smješteno na obali Dunava na razmeđu Slavonije i Srijemaomijom.
+                Ubraja se među najvažnija djela barokno-klasicističke arhitekture Hrvatske.
+                Između 3000. i 2500. prije Krista, dok Sumerani vladaju Mezopotamijom, na desnoj obali Dunava na krajnjem istoku Hrvatske razvija se vučedolska kultura
+                1938. pronađena je kultna keramička posuda u obliku ptice, vučedolska golubica.
+                Usko se veže uz štovanje indoeuropskoga boga vatre i ljevačkog zanata.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Pedeset kuna</naziv>
+            <brojcaniN>50</brojcaniN>
+            <format>134 x 67 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Plava</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar, hologram</zastita>
+            <motiv_lice>Portret Ivana Gundulića</motiv_lice>
+            <motiv_nalicje>Grad Dubrovnik, Knežev dvor</motiv_nalicje>
+            <vrijednost_euro>6,67 eura</vrijednost_euro>
+            <slika> https://www.banknoteworld.com/images/product/Croatia%2050%20Kuna%20Banknote%2C%202002%2C%20P-40a%2C%20UNC.jpg </slika>
+            <opis>Lice:
+                Ivan Gundulić rođen je u Dubrovniku 1589. Obnašao je različite upravne i sudske dužnosti institucija Dubrovačke Republike,
+                 a bio je i knez Konavala. Gundulić je već za života postao klasikom hrvatske književnosti.
+                 Napisao je prvi hrvatski povjesni ep "Osman"
+                :
+                Nalicje:
+                Grad Dubrovnik nastaje i razvija se iz novoutemeljenog naselja Ragusium, koji su početkom 7. stoljeća podigli žitelji razorenog Epidaura (Cavtata).
+                 Od srednjovjekovne komune, 1358. prerasta u slavnu Dubrovačku Republiku. Ta aristokratska republika posredovanjem u trgovini, pomorstvom, brodogradnjom, vađenjem soli, brojnim obrtima te novčarstvom osiguravala si je prihode među najvišima u Europi. Njezin novac, koji je bio iznimno cijenjen,
+                  kovao se čak 500 godina u vlastitoj kovnici.
+                  Knežev dvor gotička je palača s renesansnim i baroknim rekonstrukcijama koja se u izvorima spominje već u 13. stoljeću. U doba Dubrovačke Republike bio je upravno i administrativno sjedište.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Sto kuna</naziv>
+            <brojcaniN>100</brojcaniN>
+            <format>138 x 69 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Crvenosmedkasta</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar, hologram</zastita>
+            <motiv_lice>Portret Ivana Mažuranića, fragment Bašćanske ploce</motiv_lice>
+            <motiv_nalicje>Crkva sv. Vida u Rijeci</motiv_nalicje>
+            <vrijednost_euro>13,34 eura</vrijednost_euro>
+            <slika> https://www.banknoteworld.com/images/product/Croatia%20100%20Kuna%20Banknote%2C%202012%2C%20P-41b%2C%20UNC.jpg </slika>
+            <opis>Lice:
+                Ban pucanin, Hrvatski književnik, političar i pravnik Ivan Mažuranić rođen je 1814. Uz cijeli niz javnih i političkih funkcija bio je i predsjednik Hrvatskog sabora do imenovanja banom 1873
+                Kapitalno Mažuranićevo djelo Smrt Smail-age Čengića klasik je hrvatske književnosti. Autor je nedostajućih 14. i 15. pjevanja Gundulićeva Osmana
+                Bašćanska ploča jedan je od najdragocjenijih i najstarijih hrvatskih epigrafskih spomenika pisanih na glagoljici, nastao oko 1100. Pronađena je u Crkvi sv. Lucije u Jurandvoru kod Baške na otoku Krku.
+                 U natpisu na Bašćanskoj ploči kralj Zvonimir daruje zemlju Svetoj Luciji. Hrvati su se služili glagoljičkim pismom cijelo tisućljeće, sve od 9. do 19. stoljeća, što ga čini sastavnim dijelom hrvatskoga identiteta
+                :
+                Nalicje:
+                Riječka katedrala sv. Vida izgrađena je kao moderna barokna crkva.
+                Isusovci crkvu počinju graditi 1638. Njezina gradnja potrajala je cijelo stoljeće, ali ni do danas nije u potpunosti završena.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Dvijesta kuna</naziv>
+            <brojcaniN>200</brojcaniN>
+            <format>142 x 71 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Smeđa</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar, hologram, kinegram</zastita>
+            <motiv_lice>Portret Stjepana Radića</motiv_lice>
+            <motiv_nalicje>Zgrada glavnog zapovjedništva u Osijeku, Spomenik Presvetog Trojstva, tlocrt stare Tvrđe u Osijeku</motiv_nalicje>
+            <vrijednost_euro>26,67 eura</vrijednost_euro>
+            <slika> https://www.moneystamps.it/image/cache/uploaddiretto/200-kune-fds-1000x1000.jpg </slika>
+            <opis>Lice:
+                Stjepan Radić rođen je 1871. u Trebarjevu Desnom. Već u ranoj mladosti kao gimnazijalac zbog svoga političkog djelovanja dolazi u sukob s vlastima.
+                Za života postaje jednom od najpopularnijih osoba hrvatske političke scene ponajviše zbog privrženosti hrvatskom seljaštvu i zastupanja hrvatskih nacionalnih interesa.
+                osniva Hrvatsku pučku seljačku stranku, a zastupnikom u Hrvatskom saboru prvi put postaje 1908.
+                Radićeva smrt kao posljedica ranjavanja u Narodnoj skupštini u Beogradu, kada je na izaslanstvo Hrvatske seljačke stranke Stjepana i Pavla Radića te Đuru Basaričeka 20. lipnja 1928. pucao srpski radikal Puniša Račić
+            :
+                Nalicje:
+                Osječka Tvrđa ima iznimnu povijesnu i spomeničku vrijednost. Zbog načina na koji je stoljetni grad Osijek pretvoren u vojnu tvrđavu
+                Osječki spomenik Presvetog Trojstva, smješten u središtu Tvrđe. To je kužni pil baroknog stila s pet svetaca zaštitnika od kuge i Svetim Trojstvom
+                Po nalogu princa Eugena Savojskog na sjevernoj strani trga u osječkoj tvrđavi, od 1724. do 1726., izgrađena je zgrada vojnog zapovjedništva ili generalata.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Pet stotina kuna</naziv>
+            <brojcaniN>500</brojcaniN>
+            <format>146 x 73 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Maslinastozelena</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar</zastita>
+            <motiv_lice> Portret Marka Marulića</motiv_lice>
+            <motiv_nalicje>Dioklecijanova palača u Splitu, lik hrvatskog vladara iz XI. stoljeća</motiv_nalicje>
+            <vrijednost_euro>66,7 eura</vrijednost_euro>
+            <slika> https://www.delcampe.net/static/img_large/auction/000/242/446/163_001.jpg </slika>
+            <opis>Lice:
+                Marko Marulić rođen je 1450. u Splitu. Istaknuti je predstavnik europskoga kršćanskoga humanizma i renesansne epike
+                I ako je vecinom pisao na latinskom, svoje najznamenitije djelo, Juditu, napisao je na hrvatskom jeziku
+                Smatra se ocem hrvatske književnosti:
+                
+                Nalicje:
+                Dioklecijanova palača je carska rezidencija koju je oko 300. godine sagradio rimski car Gaj Aurelije Valerije Dioklecijan
+                Palača je građena od bračkog i trogirskog kamena, mramorni stupovi doneseni su iz egipatskih hramova, a podovi popločeni grčkim mramorom.
+                Vanjski zidovi palače u većem su dijelu ostali do danas dobro očuvani.
+                Krstionica Svetog Ivana koja se nalazi na Peristilu u središtu impresivne Dioklecijanove palače u srcu Splita nekoć je bila Eskulapov hram.
+                U nju je smješten krsni zdenac s pločama s pleternim ukrasom, za koje se pretpostavlja da su dijelovi oltarne pregrade i reljefom hrvatskoga vladara na prijestolju.
+            </opis>
+        </apoen>
+        <apoen>
+            <naziv>Tisucu kuna</naziv>
+            <brojcaniN>1000</brojcaniN>
+            <format>150 x 75 mm</format>
+            <masa> grama</masa>
+            <materijal>Stopostotni pamuk s vlakancima od metala i plastike, boja</materijal>
+            <boja>Plavkastosiva</boja>
+            <zastita>UV boje i UV vlakanca, reljefni tisak, minitekst himne, mikrotekst, preljevajuca boja,latentna slika, zastitana nit, vodeni znak, prozorni registar</zastita>
+            <motiv_lice>Portret Ante Starčevića</motiv_lice>
+            <motiv_nalicje>Spomenik prvomu hrvatskom kralju Tomislavu (925.), pročelje katedrale u Zagrebu</motiv_nalicje>
+            <vrijednost_euro>133,3 eura</vrijednost_euro>
+            <slika> https://www.njuskalo.hr/image-w920x690/numizmatika-novcanice/hrvatska-croatia-1-000-kuna-1993-aunc-slika-177657094.jpg </slika>
+            <opis>
+                Lice: 
+                Ante Starčević rođen je 1823. u Žitniku kod Gospića. Već za školovanja priklonio se ilirskomu pokretu.
+                Protivio se jezičnim koncepcijama Vuka Karadžića te je odbacio Bečki književni dogovor iz 1850.
+                1861. s Kvaternikom i Vrdoljakom osnova HSP.Ideje sveslavenstva i jugoslavenstva smatrao je pogubnima za hrvatski narod.
+                Zbog unutarstranačkih sukoba 1895. osniva Čistu stranku prava.postavio je teorijsko političke temelje suvremene hrvatske nacionalne države 
+                i zbog toga je još za života bio prozvan Ocem domovine.
+                
+                Nalicje:
+                Tomislav je hrvatski vladar koji je vladao približno od 910. do 928. Njegovo podrijetlo nije poznato, ali je vjerojatno potjecao iz dinastije Trpimirovića
+                Pišu o Tomislavu kao prvom hrvatskom kralju, okrunjenom 925. na Duvanjskom polju nakon pobjeda nad Madžarima i Bugarima
+                Gradnja zagrebačke katedrale započela je 1102., ubrzo nakon što ugarski kralj Ladislav osniva Zagrebačku biskupiju.
+                Dovršena je u romaničkom stilu 1217. Tatari ju potpuno uništavaju, pa ju potkraj 13. stoljeća biskup Timotej iz temelja obnavlja u gotičkom stilu.
+                Hermann Bollé obnavlja u neogotičkom stilu. Do 1885. završeni su svi važniji radovi, a dvije godine kasnije podignuta su dva tornja.
+                U njoj su pokopani posmrtni ostaci hrvatskih velikana Zrinskog, Frankopana i Kvaternika te trojice zagrebačkih nadbiskupa i kardinala.
+
+            </opis>
+        </apoen>
+
+
+
+
+    </vrsta_apoena>
+</tablica_HRK>

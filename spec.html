@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Specifikacije</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="#" style="background-image: url('https://euro.hr/wp-content/uploads/2022/07/1E_HR_V_1080.png'); background-repeat: no-repeat; background-size: cover;
+        width: 100px; height: 100px;"></a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="html.html" style="width: 100px; height: 100px; font-size: x-large;">Home</a></li>
+          <li><a href="spec.html" style="width: 200px; height: 100px; font-size: x-large;">Tehnicke specifikacije</a>
+          </li>
+          <li><a href="nasljede.html" style="width: 200px; height: 100px; font-size: x-large;">Kulturna Bastina</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div>
+    <div class="container-fluid text-center">
+      <div class="row content">
+        <div class="col-sm-1 sidenav">
+          <p><a href="https://www.hnb.hr/">HNB</a></p>
+          <p><a href="https://euro.hr/">Kalkulator</a></p>
+          <p><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_37_683.html">Zakon</a></p>
+          <p><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_37_683.html">Euro</a></p>
+        </div>
+
+        <div class="col-sm-10 text-left bg-image d-flex justify-content-center align-items-center visina" id="pozadinaZC"
+          style="background-image: url('https://www.mnovine.hr/wp-content/uploads/2018/06/kune-500-kuna-novac.jpg'); background-size:cover;">
+
+          <h1>Tehnicke specifikacije</h1>
+          <p class="tekst">Prvi hrvatski dinari (HRD) tiskali su se u domaćoj tiskari u Čakovcu,
+            no kune su od njihova uvođenja uvozni proizvod koji je prvotno radila tiskara Giesecke+Devrient Currency
+            Technology iz Münchena,
+            a od 2011. godine izrađuje ih i tiskara Österreichische Banknoten-und Sicherheitsdruck iz Beča.
+          </p>
+          <p class="tekst">
+            S kunom i lipom se družimo već 28 godina, točnije od 30. svibnja 1994. godine, kada je nova valuta uvedena u
+            upotrebu.
+            Od tada pa do danas kroz sustav je prošlo milijardu i 570 milijuna novčanica, odnosno tri milijarde
+            kovanica.
+            No kako se novčanice i kovanice troše, redovno su se u tih 28 godina povlačile i uništavale, odnosno tiskale
+            nove,
+            pa je danas u sustavu oko 500 milijuna novčanica kune, kojima se ukupno iskazuje vrijednost od oko 30
+            milijardi kuna.
+          </p>
+          <hr>
+
+          <button type="button" onclick="document.getElementById('pozadinaZC').style.backgroundImage = 'none'; document.getElementById('pozadinaZC').style.backgroundColor = '#669999';">Pozadina za citanje</button>
+
+
+          <button type="button" onclick="toggleTable()">Prikazi tablicu</button>
+          <div id="myDiv" class="tablica" style="display:none;">
+            <table id="demo" class="tekst"></table>
+          </div>
+
+
+
+        </div>
+        <div class="col-sm-1 sidenav"></div>
+      </div>
+    </div>
+
+  </div>
+
+
+  <footer class="container-fluid text-center">
+  </footer>
+
+
+
+
+
+</body>
+
+</html>

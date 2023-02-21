@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>XML Parsing Example</title>
+	<meta charset="utf-8">
+</head>
+<body>
+	<h1>XML Parsing Example</h1>
+
+	<ul id="apoens">
+	</ul>
+
+	<script>
+		// Load the XML file using XMLHttpRequest
+		const xhr = new XMLHttpRequest();
+		xhr.onreadystatechange = function() {
+			if (this.readyState === 4 && this.status === 200) {
+				const xmlDoc = this.responseXML;
+				const vrsta_apoena = xmlDoc.getElementsByTagName("vrsta_apoena");
+				const apoensList = document.getElementById("apoens");
+
+				for (let i = 0; i < vrsta_apoena.length; i++) {
+					const li = document.createElement("li");
+					const nodeText = document.createTextNode(vrsta_apoena[i].textContent);
+					li.appendChild(nodeText);
+					apoensList.appendChild(li);
+				}
+			}
+		};
+		xhr.open("GET", "tablica_HRK.xml", true);
+		xhr.send();
+	</script>
+</body>
+</html>

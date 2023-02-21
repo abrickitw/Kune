@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Naslovna</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="html.html" style="background-image: url('https://euro.hr/wp-content/uploads/2022/07/1E_HR_V_1080.png'); background-repeat: no-repeat; background-size: cover;
+        width: 100px; height: 100px;"></a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="html.html" style="width: 100px; height: 100px; font-size: x-large;">Home</a></li>
+          <li><a href="spec.html" style="width: 200px; height: 100px; font-size: x-large;">Tehnicke specifikacije</a>
+          </li>
+          <li><a href="nasljede.html" style="width: 200px; height: 100px; font-size: x-large;">Kulturna Bastina</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container-fluid text-center">
+    <div class="row content">
+      <div class="col-sm-1 sidenav">
+        <p><a href="https://www.hnb.hr/">HNB</a></p>
+        <p><a href="https://euro.hr/">Kalkulator</a></p>
+        <p><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_37_683.html">Zakon</a></p>
+        <p><a href="https://narodne-novine.nn.hr/clanci/sluzbeni/1994_05_37_683.html">Euro</a></p>
+      </div>
+      <div class="col-sm-10 text-left bg-image d-flex justify-content-center align-items-center visina"
+        style="background-image: url('https://www.lovac.info/media/k2/galleries/5736/Kuna%20zlatica%208.jpg'); height:200%; background-size:contain;">
+        <h1 style="font-weight: 700;">Martes martes & Tilia tomentosa</h1>
+        <h3 class="tekst">
+          Kuna zlatica i Srebrnolisna lipa<br></br>
+          Hrvatska kuna (kratica: kn, ISO-kôd: HRK) bila je službena novčana jedinica Republike
+          Hrvatske u razdoblju od 30. svibnja 1994. do 31. prosinca 2022.
+          Jedna kuna dijelila se na sto lipa. Kuna je bila konvertibilna i smatrala se stabilnom valutom.
+          Novac je izdavala Hrvatska narodna banka, a kovanice je kovala Hrvatska kovnica novca.
+          Naziv potječe od srednjovjekovne uporabe kuninih krzna za trgovinu i plaćanje carina u hrvatskim pokrajinama
+          Slavoniji i Primorju
+          (današnji Kvarner i Istra). Taj se krzneni novac prvi put spominje 1018. u creskom gradu Osoru kao sredstvo
+          plaćanja Hrvata.
+          Novac od krzna mogao se upotrebljavati za plaćanje carina i poreza. <br></br>
+          Lipa je bila hrvatska novčana jedinica, stoti dio je jedne kune.
+          Izdane su samo kovanice, i to u apoenima od 1, 2, 5, 10, 20 i 50 lipa.
+          Sve kovanice na licu imaju brojčanu oznaku vrijednosti i grančicu lipe u cvatu,
+          dok je na naličju svake kovanice druga biljka </h3>
+       
+
+        <div class="cal"> 
+          <h1 style="font-size:xx-large; color:antiquewhite">Kalkulator</h1>
+          <label for="euroInput" style="font-size:xx-large; color:antiquewhite">Enter amount in Euro:</label>
+          <input type="number" id="euroInput">
+          <button id="convertBtn" onclick="calculator()">Convert</button>
+        </div>
+        <div id="result">
+          <p style="font-size:xx-large; color:antiquewhite">Result in Kuna: <span id="kunaOutput"></span></p>
+        </div>
+
+
+      </div>
+
+      <hr>
+      <h3 class="tekst"></h3>
+      <div class="col-sm-1 sidenav" style="background-size: cover;">
+        <div>
+        </div>
+      </div>
+    </div>
+  </div>
+  </div>
+
+  <footer class="container-fluid text-center">
+    <p>Footer Text</p>
+  </footer>
+
+</body>
+
+</html>
