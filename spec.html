@@ -14,27 +14,13 @@
 
 <body>
 
-  <nav class="navbar navbar-inverse">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-          <span class="icon-bar"></span>
-        </button>
-        <a class="navbar-brand" href="#" style="background-image: url('https://euro.hr/wp-content/uploads/2022/07/1E_HR_V_1080.png'); background-repeat: no-repeat; background-size: cover;
-        width: 100px; height: 100px;"></a>
-      </div>
-      <div class="collapse navbar-collapse" id="myNavbar">
-        <ul class="nav navbar-nav">
-          <li class="active"><a href="html.html" style="width: 100px; height: 100px; font-size: x-large;">Home</a></li>
-          <li><a href="spec.html" style="width: 200px; height: 100px; font-size: x-large;">Tehnicke specifikacije</a>
-          </li>
-          <li><a href="nasljede.html" style="width: 200px; height: 100px; font-size: x-large;">Kulturna Bastina</a></li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+  <div id="nav-placeholder">
+    <script>
+      $(function(){
+        $("#nav-placeholder").load("header.html");
+      });
+      </script>
+  </div>
 
   <div>
     <div class="container-fluid text-center">
